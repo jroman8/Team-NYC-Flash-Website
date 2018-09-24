@@ -73,6 +73,17 @@ h1 {
 
 
 
+
+footer {
+	text-align: center;
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 1px;
+	clear: left;
+    padding-bottom: 50px;
+}
+
+
 img {
     float: left;
     padding-bottom: 30px;
