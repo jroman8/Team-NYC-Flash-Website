@@ -21,11 +21,13 @@
 <footer>
 	<p> CSC 174 Team NYC </p>
 
+<!--
 	 <ul class="list2"> 
         <li> <a href="http://csc174.org/assignment01/jmyers/lab_01/">Julia's page</a></li> 
         <li> <a href="http://csc174.org/assignment01/hbarkley/">Hope's page</a> </li> 
         <li> <a href="http://csc174.org/assignment01/bsmart/Assignment%201/">Brandon's page</a></li> 
     </ul>
+-->
 </footer>
 
 </div>
