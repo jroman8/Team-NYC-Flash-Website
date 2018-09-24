@@ -24,14 +24,15 @@ p {
 
 h1 {
 	font-size: 50px;
-	color: white;
-	background-color: #4286f4;
-    border-radius: 10px;
+	color: #333;
+    border-bottom-style: solid;
+    border-bottom-color: #333;
     padding: 10px;
+    padding-left: 15px;
 }
 
 .list {
-	background-color: black;
+	background-color: #333;
 	color: white;
 	list-style: none;
 	padding-top: 100px;
@@ -64,6 +65,10 @@ h1 {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #B4DCF5;
 }
 
 .menu .is-current { 
