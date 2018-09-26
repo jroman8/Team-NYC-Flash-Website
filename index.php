@@ -8,11 +8,10 @@
 
 	<?php include "include/nav.inc"; ?>
 
-
 <ul class="pics">
-	<li><img src="images/portrait.jpg" alt = "Hope Barkley"></li>
-	<li><img src="images/julia.jpg" alt = "Julia Meyers"></li>
-	<li><img src="images/me.jpg" alt = "Brandon Smart"></li>
+    <li><a href="hope.php"><img src="images/portrait.jpg" alt = "Hope"></a></li>
+    <li><a href=brandon.php><img src="images/me.jpg" alt = "Brandon"></a></li>
+    <li><a href="julia.php"><img src="images/julia.jpg" alt = "Julia"></a></li>
 </ul>
 	
 <script src="http://code.jquery.com/jquery.js"></script>
@@ -20,17 +19,8 @@
 
 <footer>
 	<p> CSC 174 Team NYC </p>
-
-<!--
-	 <ul class="list2"> 
-        <li> <a href="http://csc174.org/assignment01/jmyers/lab_01/">Julia's page</a></li> 
-        <li> <a href="http://csc174.org/assignment01/hbarkley/">Hope's page</a> </li> 
-        <li> <a href="http://csc174.org/assignment01/bsmart/Assignment%201/">Brandon's page</a></li> 
-    </ul>
--->
 </footer>
 
 </div>
 </body>
-
 </html>
