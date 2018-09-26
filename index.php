@@ -22,8 +22,7 @@
     </li>  
 </ul>
 	
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="js/menu-highlighter.js"></script>
+<?php include "include/scripts.inc"; ?>
 
 <footer>
 	<p> CSC 174 Team NYC </p>
