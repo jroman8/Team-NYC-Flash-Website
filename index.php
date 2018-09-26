@@ -14,10 +14,10 @@
         
     </li>
     <li>
-        <a href="hope.php"><img src="images/portrait.jpg" alt = "Hope"></a>
+        <a href="hope.php"><img src="images/hope.jpg" alt = "Hope"></a>
     </li>
     <li>
-        <a href=brandon.php><img src="images/me.jpg" alt = "Brandon"></a>
+        <a href=brandon.php><img src="images/brandon.jpg" alt = "Brandon"></a>
 
     </li>  
 </ul>

@@ -6,7 +6,7 @@
 
 	<?php include "include/nav.inc"; ?>
 	
-		<img src="images/portrait.jpg" alt = "Hope Barkley">
+		<img src="images/hope.jpg" alt = "Hope Barkley">
 		
         <ul class="list">
 			<li> Digital Media Studies </li>
