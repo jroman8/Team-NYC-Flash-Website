@@ -9,7 +9,7 @@
     <?php include "include/nav.inc"; ?>
 
 
-    <img class="myPic" src="images/me.jpg" alt="Brandon Smart">
+    <img class="myPic" src="images/brandon.jpg" alt="Brandon Smart">
 
     <ul class="list"> 
         <li> Computer Science </li> 
