@@ -22,11 +22,8 @@
     </li>  
 </ul>
 	
+<?php include "include/footer.inc"; ?>
 <?php include "include/scripts.inc"; ?>
-
-<footer>
-	<p> CSC 174 Team NYC </p>
-</footer>
 
 </div>
 </body>

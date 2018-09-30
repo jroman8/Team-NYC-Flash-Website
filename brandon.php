@@ -29,10 +29,7 @@
         <h2>Courses</h2>
         <p>CSC 174: Taught by Professor Kostin at 3:15 on Mondays and Wednesdays. "Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. - Topics will include Information Architecture, visual design, use of client libraries (mostly JS), and asset management strategies; we will also cover Content Management Systems and introduce web databases using PHP and MySQL.</p>
         
-   <footer>
-        <p> CSC 174 Team NYC </p>
-    </footer>
-
+    <?php include "include/footer.inc"; ?>
     <?php include "include/scripts.inc"; ?>
 
 </div>

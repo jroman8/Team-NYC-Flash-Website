@@ -30,10 +30,7 @@
 	   <p>At University of Rochester, I have taken many classes to help advance my skillsets and knowledge. I have completed courses such as DMS 101, DMS 102, DMS 103, and DMS 104 to ensure that I am prepared for upper level DMS classes. Additionally, I am one course away from completion of my computer science minor, and now have HTML, Python and Java skills. I am currently enrolled in many Business courses, such as Finance, and have previously taken multiple Economics and accounting classes.
 	</p>
 
-	<footer>
-		<p> CSC 174 Team NYC </p>
-	</footer>
-	
+	<?php include "include/footer.inc"; ?>
 	<?php include "include/scripts.inc"; ?>
 </div>
 </div>

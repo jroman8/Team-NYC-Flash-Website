@@ -28,10 +28,7 @@
 			<p> When I started school at the University of Rochester I started taking a lot od technology and design classes.  For my Digital Media Studies major I have taken courses including Programming for Digital Media, Design in the Digital Age, and Photography which have given me a well-rounded understanding of the media industries and the possible career paths within them.  Additionally, for my Computer Science minor, I have taken courses such as aken at the University of Rochester.  Computer Science classes such as Intro to Programming, Web design and Development, and Recreational Graphics.  For my Business minor I am currently taking Economics and Statistics and will go on to take Finance and Marketing classes in future semesters. During the spring semester of my sophomore year, I studied abroad in Copenhagen, Denmark.  There, I focused my studies on Communications and Media studies.  While abroad I took Cross Cultural Communicaiton, Digital Media in Marketing, Photojournalism, and Sociology of the Family.  I also had an internship in Copenhagen that you can read about in the experiences page!</p>
 		</div>
             
-		<footer>
-		<p> CSC 174 Team NYC </p>
-		</footer>
-
+		<?php include "include/footer.inc"; ?>
 		<?php include "include/scripts.inc"; ?>
 
 	</div>
