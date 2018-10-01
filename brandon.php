@@ -14,6 +14,7 @@
     <ul class="list"> 
         <li> Computer Science </li> 
         <li> Financial Economics </li>  
+        <li> Business and Technology</li>
     </ul>
         <h2>Intro</h2>
         <p> First-generation student studying Financial Economics and Computer Science at the University of Rochester.Through a growing list of diverse experiences, I've developed a unique skill set in financial strategy, marketing, programming, information technology, and graphic design that will allow me to bridge the gap 
