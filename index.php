@@ -7,6 +7,7 @@
 <h1>TEAM NYC</h1>
 
 	<?php include "include/nav.inc"; ?>
+    
 <ul class="pics">
     <li>
         

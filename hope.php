@@ -1,4 +1,5 @@
 <?php include "include/html.inc"; ?>
+
 <body>
 <div class="container">
 
@@ -32,6 +33,7 @@
 
 	<?php include "include/footer.inc"; ?>
 	<?php include "include/scripts.inc"; ?>
+	
 </div>
 </div>
 </body>
