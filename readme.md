@@ -4,7 +4,7 @@ Diarra Bell: IA
 
 Victoria Bongard: Design Artist
 
-Johnathan Roman: Coder
+Jonathan Roman: Coder
 
 ---
 ### How website is organized
